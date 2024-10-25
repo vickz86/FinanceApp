@@ -1,0 +1,2 @@
+salary;2600;m;salary I get each month
+crypto;3000;y;earning of crypyo stacking
